@@ -18,4 +18,4 @@ On fouille un peu et dans la section A propos -> Détails sur John, que trouve-t
 
 <img src="/img/a-propos.png" style="width: 70%;">
 
-PWNME{TG9uZyBsaXZlIHRoZSB0cmFpbnMsIGxvbmcgbGl2}
+**Flag : PWNME{TG9uZyBsaXZlIHRoZSB0cmFpbnMsIGxvbmcgbGl2}**
