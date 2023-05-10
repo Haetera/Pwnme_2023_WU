@@ -1,6 +1,6 @@
 # Social Media Goes Brrrrr
 
-Description : 
+## Description : 
 
 John Droper est une personne franco-anglaise qui laisse une empreinte numérique énoooooorme.
 (Indication : il parle donc anglais et français, certaines informations ne se trouvent que grâce à une des langues)
