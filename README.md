@@ -1,5 +1,7 @@
 # Pwnme_2023_WU
 
+For my first CTF, I focused on osint and completed all the challenges in the category with my team
+
 ## Write-up Osint category Pwnme CTF 2023
 
 [1) Social Media Goes Brrrrr](https://github.com/Haetera/Pwnme_2023_WU/blob/main/Social_Media_Goes_Brrrrr.md)
